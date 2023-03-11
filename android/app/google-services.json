@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455629299565",
+    "project_id": "pitak-app",
+    "storage_bucket": "pitak-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455629299565:android:23d9c26ac36224945e8464",
+        "android_client_info": {
+          "package_name": "com.example.taxi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455629299565-2o0s2o1c87c7dm357917u543dbvqiate.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFyHJyh1K5CLiCVy2vCru0sDfXAz_974"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455629299565-2o0s2o1c87c7dm357917u543dbvqiate.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
